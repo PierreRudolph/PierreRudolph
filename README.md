@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JavaScript, Angular, CSS/SCSS**
 
-- 📫 How to reach me **Mail@Pierre-Lettner.de**
+- 📫 How to reach me **mail@Pierre-Lettner.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
