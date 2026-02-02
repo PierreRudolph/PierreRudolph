@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **C#, Blazor, Radzen**
+- 🌱 I’m currently learning **Kirby, Docker, CMS**
 
 - 👨‍💻 All of my projects are available at [www.pierre-lettner.de](www.pierre-lettner.de)
 
