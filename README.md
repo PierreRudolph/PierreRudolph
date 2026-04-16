@@ -40,7 +40,7 @@
 
 <td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a></td>
 
-<td><a href="https://getkirby.com" target="_blank"><img src="https://pierre-lettner.de/kirby-icon/kirby_icon.svg" width="40" height="40"/></a></td>
+<td><a href="https://getkirby.com" target="_blank"><img src="https://pierre-lettner.de/kirby-icon/kirby-icon.svg" width="40" height="40"/></a></td>
 
 </tr>
 </table>
